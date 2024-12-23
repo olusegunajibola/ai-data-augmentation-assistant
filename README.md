@@ -1,18 +1,25 @@
 # Data Augmentation Assistant for Financial News
 ---
+
 This repository contains the code and instructions for balancing a dataset of financial news based on sentiment 
 using an AI data augmentation assistant. The process involves selecting a specific number of positive and negative 
 news items and then augmenting the underrepresented class to achieve a balanced dataset.
+
 ---
 ## Goal: Build an AI Assistant that augments a dataset.
+
 The goal of this project is to balance a dataset of financial news by augmenting the underrepresented sentiment 
 classes. This is achieved using the Groq API for data augmentation. The dataset is initially filtered to include 10 
 positive and 6 negative news items, and then the negative class is augmented to match the number of positive items.
+
 ---
+
 ## Results
 The balanced dataset contains an equal number of positive and negative news items, which can be used for further 
 analysis or model training. 
+
 ---
+
 ## Other Use Cases
 1. Text Generation
     - Content Creation: Generate blog posts, articles, and social media content.
