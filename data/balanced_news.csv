@@ -1,21 +1,21 @@
-sentiment,news
-positive,"This is Done Logistics ' largest order in Norway , the diversified group said ."
-positive,"Growth was strongest in F-Secure 's operator ISPs , mobile operators and cable operators business ."
-positive,EPS grew to 0.04 eur from 0.02 eur .
-positive,Atria Group is a leading Scandinavian meat products group .
-positive,"STX Finland Oy signed a a preliminary agreement for the building of an environmentally friendly , new generation cruise ferry for Viking Line to manage on between Turku , Finland , and Stockholm , Sweden withViking Line ABP ."
-positive,"In Lithuania , operating profit rose to EUR 190,000 from EUR 70,000 in the corresponding period in 2005 ."
-positive,( I&H ) in a move to enhance growth .
-positive,The company will use the assets for strengthening its balance sheet and financial position .
-positive,First quarter underlying operating profit rose to 41 mln eur from 33 mln a year earlier .
-positive,"Pretax profit totalled EUR 2.0 mn , compared to a loss of EUR 159.2 mn in the fourth quarter of 2008 ."
-negative,"However , its market share shrank to 47.59 per cent from 48 per cent a year earlier ."
-negative,"In food trade , sales amounted to EUR320 .1 m , a decline of 1.1 % ."
-negative,"Also the city 's insurance company , If P & C Insurance , has said it will not pay compensation ."
-negative,"Group EBIT for the first half was EUR13 .6 m US$ 17.8 m , falling short of the EUR22 .5 m it posted for the same period of 2009 ."
-negative,"Last year , UPM cut production , closed mills in Finland and slashed 700 jobs ."
-negative,"When the web user clicks on the link contained in the mail , he finds himself on a bogus site that imitates that of his bank , and which retrieves his personal banking data ."
-negative,Company's market share decreases by 0.41 percentage points to 47.59 per cent in latest quarter.
-negative,"Retail Sales Decline 1.1%, Reaching EUR320.1 Million in January"
-negative,Insurance Company Refuses to Cover Damages
-negative,Company Experiences Decline in EBIT for First Half
+S/No,sentiment,news
+1,positive,"This is Done Logistics ' largest order in Norway , the diversified group said ."
+2,positive,"Growth was strongest in F-Secure 's operator ISPs , mobile operators and cable operators business ."
+3,positive,EPS grew to 0.04 eur from 0.02 eur .
+4,positive,Atria Group is a leading Scandinavian meat products group .
+5,positive,"STX Finland Oy signed a a preliminary agreement for the building of an environmentally friendly , new generation cruise ferry for Viking Line to manage on between Turku , Finland , and Stockholm , Sweden withViking Line ABP ."
+6,positive,"In Lithuania , operating profit rose to EUR 190,000 from EUR 70,000 in the corresponding period in 2005 ."
+7,positive,( I&H ) in a move to enhance growth .
+8,positive,The company will use the assets for strengthening its balance sheet and financial position .
+9,positive,First quarter underlying operating profit rose to 41 mln eur from 33 mln a year earlier .
+10,positive,"Pretax profit totalled EUR 2.0 mn , compared to a loss of EUR 159.2 mn in the fourth quarter of 2008 ."
+1,negative,"However , its market share shrank to 47.59 per cent from 48 per cent a year earlier ."
+2,negative,"In food trade , sales amounted to EUR320 .1 m , a decline of 1.1 % ."
+3,negative,"Also the city 's insurance company , If P & C Insurance , has said it will not pay compensation ."
+4,negative,"Group EBIT for the first half was EUR13 .6 m US$ 17.8 m , falling short of the EUR22 .5 m it posted for the same period of 2009 ."
+5,negative,"Last year , UPM cut production , closed mills in Finland and slashed 700 jobs ."
+6,negative,"When the web user clicks on the link contained in the mail , he finds himself on a bogus site that imitates that of his bank , and which retrieves his personal banking data ."
+7,negative,Company's market share decreases by 0.41 percentage points to 47.59 per cent in latest quarter.
+8,negative,"Retail Sales Decline 1.1%, Reaching EUR320.1 Million in January"
+9,negative,Insurance Company Refuses to Cover Damages
+10,negative,Company Experiences Decline in EBIT for First Half
